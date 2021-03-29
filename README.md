@@ -11,6 +11,8 @@ Meu nome é Jean de Lima, sou fascinado por tecnologia, em especial a programaç
 💼 Linkedin: https://www.linkedin.com/in/jcarloslb/
 <br />
 😸 Github: https://github.com/jcarloslb
+<br />
+📷 Instagram: https://www.instagram.com/jeandelimab/
 
 ## O que procuro
 Gostaria de colaborar com projetos back-end com PHP
